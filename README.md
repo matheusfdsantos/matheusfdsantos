@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Matheus, estudo desenvolvimento full stack</h1>
 <p align="center">
 <a href="https://www.instagram.com/mfelipe_s/"><img src="https://img.shields.io/badge/-@mfelipe_s_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="www.linkedin.com/in/matheus-felipe-dos-santos-a6329029a"><img src="https://img.shields.io/badge/-Matheus%20Felipe%20dos%20Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/matheus-felipe-dos-santos-a6329029a/"><img src="https://img.shields.io/badge/-Matheus%20Felipe%20dos%20Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:matheusfelipe685@gmail.com"><img src="https://img.shields.io/badge/-matheusfelipe685@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
